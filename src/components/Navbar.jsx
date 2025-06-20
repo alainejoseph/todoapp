@@ -22,7 +22,7 @@ const Navbar = () => {
           >
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            News
+            Todo App
           </Typography>
           <Link to='/'> <Button color="inherit" style={{color:'white'}}>Home</Button></Link>
           <Link to='/addtodo'><Button color="inherit" style={{color:'white'}}>Add Todo</Button></Link>
